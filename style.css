@@ -1,6 +1,6 @@
 .carousel{
-    width: 240px;
-    height: 240px;
+    width: 350px;
+    height: 250px;
     
 }
 .container{
@@ -9,4 +9,13 @@
 .submit{
     margin-top: 20px;
     margin-left: 200px
+}
+.text-add{
+    margin-top: 150px;
+}
+.badge{
+    padding: 10px;
+}
+body{
+    background-image:url(images/OIP.jpeg) ;
 }
