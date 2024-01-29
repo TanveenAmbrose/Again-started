@@ -20,3 +20,7 @@
 body{
     background-image:url(images/OIP.jpeg) ;
 }
+.form-floating{
+    width: 50%;
+    margin-left: 150px;
+}
