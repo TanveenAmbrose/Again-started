@@ -21,6 +21,10 @@ body{
     background-image:url(images/OIP.jpeg) ;
 }
 .form-floating{
+    margin-top: 50px;
     width: 50%;
     margin-left: 150px;
+}
+.card img{
+    margin-left: 40px;
 }
