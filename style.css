@@ -28,3 +28,11 @@ body{
 .card img{
     margin-left: 40px;
 }
+.card img:hover{
+    transform: scale(1.1);
+    transition: 1s;
+    cursor: pointer;
+}
+.card{
+    overflow: hidden;
+}
