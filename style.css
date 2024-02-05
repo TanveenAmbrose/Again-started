@@ -3,15 +3,15 @@
     height: 250px;
     
 }
-.container{
+.xx{
     margin-top: 80px;
 }
 .submit{
-    margin-top: 20px;
-    margin-left: 200px
+    margin-top: 30px;
+    
 }
 .text-add{
-    margin-top: 150px;
+    margin-top: 60px;
 }
 .badge{
     padding: 10px;
@@ -20,9 +20,8 @@
 
 
 .form-floating{
-    margin-top: 50px;
-    width: 50%;
-    margin-left: 150px;
+    margin-top: 30px;
+    
 }
 .card img{
     margin-left: 40px;
@@ -34,4 +33,9 @@
 }
 .card{
     overflow: hidden;
+    padding: 20px;
+}
+
+.container{
+    padding: 40px;
 }
