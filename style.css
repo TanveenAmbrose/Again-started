@@ -17,9 +17,8 @@
     padding: 10px;
     margin: 15px;
 }
-body{
-    background-image:url(images/OIP.jpeg) ;
-}
+
+
 .form-floating{
     margin-top: 50px;
     width: 50%;
@@ -35,8 +34,4 @@ body{
 }
 .card{
     overflow: hidden;
-}
-.btn-primary{
-    align-items: center;
-    align-self:center;
 }
