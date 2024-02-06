@@ -4,6 +4,7 @@ body{
 
 .left{
     margin: 10%;
+    margin-top: 15%;
 }
 .right{
     margin-top: 10%;
@@ -11,5 +12,39 @@ body{
     border: gray 1px solid;
     border-radius: 8px;
     padding: 10px;
+    background-color: white;
+    width: 30%;
 
+}
+.connextion{
+    width: 100%;
+    background-color: #1876f1;
+    color: white;
+    font-size: 20px;
+}
+.new{
+    background-color: #42b72a;
+    color: white;
+    padding: 12px; 
+}
+h1{
+    color: #1876f1;
+    font-size: 62px;
+}
+h6{
+    font-size: 12px;
+    padding-top: 50px;
+    
+}
+.form-control{
+    padding-top: 6%;
+}
+a{
+    text-decoration: none;
+}
+.form-control{
+    text-align: justify-center-start;
+}
+.container{
+    padding-bottom: 50px;
 }
