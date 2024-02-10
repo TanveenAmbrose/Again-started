@@ -13,13 +13,80 @@ body{
 }
 .right-colum{
     background-color: #ffffff;
-    border: 1px solid #e6e6e6;
+    border: 2px solid #e6e6e6;
     width: 350px;
-    padding: 40px;
-    margin-top: 40px;
+    padding: 45px 45px 0px 45px;
+    margin-top: 48px;
     
 }
 .right-colum img{
-    margin: 15px auto;
-    width: 150px;
+    width: 175px;
+    padding-bottom: 20px;
+}
+::placeholder{
+    font-size: 12px;
+}
+.form-group{
+    margin: 5px;
+}
+.btn{
+    margin-top: 10px;
+    background-color: rgb(83, 173, 225) !important;
+    width: 258px;
+    font-size: 14px;
+    padding: 5px;
+    border: 1px solid;
+}
+.or{
+    font-size: 12px;
+    color: #999292;
+    margin-top: 15px;
+}
+.fb{
+    text-decoration: none;
+    color: rgb(34, 34, 152);
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.facebook img{
+    padding-top: 18px;
+    width: 6%;
+    margin-right: 5px;
+}
+.forgot a{
+    text-decoration: none;
+    font-size: 12px;
+    color: #999292;
+}
+
+.two{
+    background-color: #ffffff;
+    border: 2px solid #e6e6e6;
+    width: 350px;
+    padding: 10px;
+    margin-top: 10px;  
+}
+.two a{
+    text-decoration: none;
+    font-weight: 500;
+}
+.two p{
+    font-size: 14px;
+}
+.get {
+    padding-left: 22%;
+    font-size: 14px;
+    padding-top: 2%;
+}
+
+.ok-img{
+    background-color: #ffffff;
+    width: 350px;
+    padding-left: 60px;
+    margin-top: 10px; 
+}
+.ok-img img{
+    width: 40%;
+    
 }
