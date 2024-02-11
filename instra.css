@@ -90,3 +90,12 @@ body{
     width: 40%;
     
 }
+.oklink{
+    padding:40px 0px 60px 100px;
+}
+.oklink a{
+    text-decoration: none;
+    color: #999292;
+    font-weight: 400;
+    margin: 6px;
+}
